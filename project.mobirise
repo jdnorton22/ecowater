@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EcoWater",
-    "currentPage": "Products.html",
+    "currentPage": "About.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -136,7 +136,7 @@
           "_anchor": "content5-3",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
@@ -426,7 +426,7 @@
           },
           "_anchor": "features1-1f",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -449,7 +449,7 @@
             "showButtons": false
           },
           "headerAlign": "left",
-          "header": "Products",
+          "header": "<span style=\"font-family: inherit; line-height: 1.5em;\">Products</span><br>",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -824,7 +824,7 @@
           "_anchor": "msg-box4-13",
           "_params": {
             "imageSize": "21",
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1660,7 +1660,7 @@
           "_anchor": "msg-box4-z",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
